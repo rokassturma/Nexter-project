@@ -145,6 +145,8 @@ body {
 .header__btn {
   align-self: start;
   justify-self: start;
+  text-decoration: none;
+  color: #fff;
 }
 .header__seenon-text {
   display: grid;
